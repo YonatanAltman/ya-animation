@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+main{
+  display:grid;
+  grid-template-columns: repeat(6, 100px);
+}
+.green{
+  background-color: greenyellow;
+}
